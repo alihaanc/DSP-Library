@@ -46,7 +46,7 @@
 ## All Filter Types and Specification
 
 - FIR Filter float
-- FIR Filter 16 - bit Filter
+- FIR Filter 16 - bit 
 - Fast FIR Filter
 - Exponential Moving Average Filter
 - Moving Average Filter
