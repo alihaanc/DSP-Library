@@ -1,0 +1,10 @@
+../Core/Src/QMCL58831L.c:20:12:Init_QMCL5883	48	static
+../Core/Src/QMCL58831L.c:57:12:QMC5883L_Start	40	static
+../Core/Src/QMCL58831L.c:98:6:Int_Process_handler	16	static
+../Core/Src/QMCL58831L.c:115:12:Status_handler	16	static
+../Core/Src/QMCL58831L.c:158:6:HAL_I2C_MemRxCpltCallback	16	static
+../Core/Src/QMCL58831L.c:173:6:SetDeclination	24	static
+../Core/Src/QMCL58831L.c:192:6:heading_calc	16	static
+../Core/Src/QMCL58831L.c:215:6:calibrating_init	40	static
+../Core/Src/QMCL58831L.c:239:6:Filter_init	16	static
+../Core/Src/QMCL58831L.c:253:6:filter_update	16	static

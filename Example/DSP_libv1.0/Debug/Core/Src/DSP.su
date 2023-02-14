@@ -1,0 +1,14 @@
+../Core/Src/DSP.c:57:6:FPU_enable	4	static
+../Core/Src/DSP.c:67:6:DSP_Filter_init	16	static
+../Core/Src/DSP.c:80:6:DSPkalman_init	24	static
+../Core/Src/DSP.c:94:6:DSPkalman_initTrust	16	static
+../Core/Src/DSP.c:143:6:DSPexp_moving_avg	24	static
+../Core/Src/DSP.c:157:6:DSPmoving_av	24	static
+../Core/Src/DSP.c:183:6:DSPmoving_med	24	static
+../Core/Src/DSP.c:211:7:insertionSort	40	static
+../Core/Src/DSP.c:240:6:DSP_firfloat	24	static
+../Core/Src/DSP.c:273:6:DSP_fir16	24	static
+../Core/Src/DSP.c:303:6:DSP_fastfir16	48	static,ignoring_inline_asm
+../Core/Src/DSP.c:343:6:DSPstatistic_32	112	static,ignoring_inline_asm
+../Core/Src/DSP.c:427:6:DSPstatistic_16	112	static,ignoring_inline_asm
+../Core/Src/DSP.c:508:11:DSPkalman	16	static
