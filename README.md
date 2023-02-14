@@ -3,8 +3,8 @@
 ` SIMD stands for 'Single Instruction and Multiple Data Stream'. It represents an organization that includes many processing units under the supervision of a common control unit.`
 
 
- <img src ="https://user-images.githubusercontent.com/93796314/218828414-cdbd43b9-e83c-4db7-8050-409ef5bf62c4.png" align="right" width="400" height="200">
- <img src ="https://user-images.githubusercontent.com/93796314/218829497-64caa91e-285a-4c1d-a18a-a84690559340.png" align="left" width="400" height="200">
+ <img src ="https://user-images.githubusercontent.com/93796314/218828414-cdbd43b9-e83c-4db7-8050-409ef5bf62c4.png" align="right" width="300" height="200">
+ <img src ="https://user-images.githubusercontent.com/93796314/218829497-64caa91e-285a-4c1d-a18a-a84690559340.png" align="left" width="300" height="200">
 
 
 
