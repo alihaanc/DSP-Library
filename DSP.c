@@ -136,6 +136,7 @@ void DSPkalman_initTrust(Kalman*kalman,Trust type)
 		break;
 
 
+
 	}
 
 
@@ -143,11 +144,12 @@ void DSPkalman_initTrust(Kalman*kalman,Trust type)
 
 void DSPexp_moving_avg(M_Filt_t *filt,float32_t input,float Alpha)
 {
-	  if(Alpha > 1)
+	  if(Alpha >  1)
 	       {
 	    	   Alpha = 0.99f;
 
 	       }
+
 
 
 	filt->output_f  = Alpha * filt->output_f + (1-Alpha) * input;
